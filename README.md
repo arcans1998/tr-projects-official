@@ -9,3 +9,7 @@ How to use?
 5. Click **Download** button.
 
 # Compatible with Android Studio and AndroidIDE.
+The Java Source are fully compatible in the popular IDEs.
+
+# Functionality.
+Download any projects and files for free.
